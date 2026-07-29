@@ -72,3 +72,7 @@ This repository is actively being developed as part of my transition into DevOps
 ## License
 
 This project is licensed under the MIT License.
+
+## Files Available
+
+day_1.md --> Linux Basics
