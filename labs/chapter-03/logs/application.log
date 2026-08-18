@@ -1,0 +1,9 @@
+INFO: Server Started
+INFO: Database Connected
+WARNING: Slow Query
+ERROR: Database Timeout
+INFO: Retry Started
+ERROR: Connection Failed
+INFO: Application Running
+error: Network Timeout
+Error : Disk Full
